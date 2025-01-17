@@ -7,6 +7,11 @@
         "48": "icons/icon48.png",
         "96": "icons/icon96.png"
     },
+    "browser_specific_settings": {
+        "gecko": {
+        "id": "{48275100-e884-4a6d-b41d-e7811d47358b}"
+        }
+    },
     "content_scripts": [
         {
             "run_at": "document_idle",
